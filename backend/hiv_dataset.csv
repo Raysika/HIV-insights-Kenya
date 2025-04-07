@@ -1,0 +1,354 @@
+Level,Region,PLHIV(All sexes),HIV Prevelance(All sexes),Incidence (per 1000),Deaths(All),New Infections,PMTCT Need,PMTCT Receiving
+Subcounty,Ainabkoi ,8705,6.67,1.08,184,139,351,280
+Subcounty,Ainamoi ,13928,9.13,2.1,295,296,218,160
+Subcounty,Aldai ,2423,1.56,0.3,50,49,111,47
+Subcounty,Alego Usonga ,19115,8.86,0.69,245,150,991,1008
+Subcounty,Athi River ,20947,6.41,0.6,314,189,249,197
+Subcounty,Awendo ,16823,15.78,1.59,217,162,485,447
+Subcounty,Balambala ,55,0.19,0.03,3,2,3,1
+Subcounty,Banissa ,258,0.22,0.05,12,14,15,1
+County,Baringo,8666,1.57,0.33,180,193,325,197
+Subcounty,Baringo Central ,1948,2.45,0.54,41,44,60,34
+Subcounty,Baringo North ,910,1.05,0.24,19,21,39,19
+Subcounty,Belgut ,1887,1.47,0.37,40,47,81,49
+Subcounty,Bobasi ,5156,2.57,0.24,66,48,180,145
+Subcounty,Bomachoge Borabu ,4024,3.03,0.3,52,39,129,110
+Subcounty,Bomachoge Chache ,1271,1.52,0.16,16,13,106,67
+County,Bomet,15003,1.98,0.39,313,307,607,496
+Subcounty,Bomet Central ,2377,1.56,0.29,50,45,170,110
+Subcounty,Bomet East ,3481,2.76,0.56,72,70,144,134
+Subcounty,Bonchari ,4948,3.62,0.32,64,43,114,95
+Subcounty,Bondo ,21444,11.35,0.94,277,174,1072,968
+Subcounty,Borabu ,1651,2.21,0.2,21,15,87,63
+Subcounty,Bumula ,2884,1.45,0.18,41,41,199,126
+County,Bungoma,27347,1.78,0.2,393,355,1887,1131
+Subcounty,Bunyala ,4508,5.69,0.45,66,43,231,202
+Subcounty,Bura ,1183,1.22,0.16,18,16,56,40
+Subcounty,Bureti ,4391,2.43,0.46,92,85,189,123
+County,Busia,40960,5.03,0.61,600,508,1389,1138
+Subcounty,Butere ,2407,1.63,0.15,34,26,197,138
+Subcounty,Butula ,5038,3.87,0.32,72,52,202,180
+Subcounty,Buuri East ,1504,1.96,0.22,22,17,40,37
+Subcounty,Buuri West ,1738,2.13,0.09,22,20,86,32
+Subcounty,Changamwe ,12194,9.14,1.16,190,137,335,314
+Subcounty,Chepalungu ,2354,1.65,0.29,49,45,96,104
+Subcounty,Cheptais ,1151,0.91,0.11,16,16,90,44
+Subcounty,Cherangany ,5238,2.66,0.48,107,99,154,108
+Subcounty,Chesumei ,2821,1.92,0.38,59,56,111,71
+Subcounty,Chuka ,1473,1.58,0.15,21,14,60,51
+Subcounty,Dadaab ,143,0.04,0.01,7,5,1,1
+Subcounty,Dagoretti North ,13973,13.48,2.2,103,163,108,410
+Subcounty,Dagoretti South ,2729,2.22,0.6,19,60,52,156
+Subcounty,East Pokot ,132,0.2,0.04,3,3,8,3
+Subcounty,Eldas ,49,0.06,0.01,2,2,1,0
+County,Elgeyo-Marakwet,7290,1.86,0.36,152,149,294,180
+Subcounty,Embakasi Central ,3035,2.69,0.58,22,53,137,543
+Subcounty,Embakasi East ,5685,4.13,0.89,42,97,165,448
+Subcounty,Embakasi North ,3282,4.27,1.1,24,65,135,514
+Subcounty,Embakasi South ,4394,2.73,0.73,32,93,81,195
+Subcounty,Embakasi West ,5562,4.44,1.21,41,117,45,185
+County,Embu,9560,1.5,0.14,143,91,339,282
+Subcounty,Emgwen ,4701,3.55,0.64,98,86,194,110
+Subcounty,Emuhaya ,2372,2.57,0.24,34,24,120,93
+Subcounty,Endebess ,1255,1.31,0.26,26,26,146,85
+Subcounty,Fafi ,330,0.15,0.02,17,11,3,1
+Subcounty,Galole ,355,0.48,0.07,5,5,59,15
+Subcounty,Ganze ,10570,6.69,0.71,161,119,70,48
+Subcounty,Garbatulla ,314,0.38,0.04,5,4,31,30
+County,Garissa,1895,0.19,0.03,97,71,114,69
+Subcounty,Garissa ,973,0.65,0.1,50,37,91,56
+Subcounty,Garsen ,434,0.46,0.05,6,5,43,36
+Subcounty,Gatanga ,2265,1.13,0.05,30,11,45,47
+Subcounty,Gatundu North ,2445,2.11,0.12,33,16,66,63
+Subcounty,Gatundu South ,1460,1.13,0.07,19,10,100,73
+Subcounty,Gem ,17487,10.13,0.82,224,139,850,753
+Subcounty,Gilgil ,7003,4.02,0.71,145,126,173,136
+Subcounty,Githunguri ,2694,1.54,0.11,36,20,86,70
+Subcounty,Hamisi ,3592,2.34,0.19,51,35,247,140
+County,Homa Bay,109786,10.57,0.93,1404,984,5500,5089
+Subcounty,Homa Bay Town ,14676,13.69,1.29,188,134,745,618
+Subcounty,Hulugho ,41,0.03,0.01,2,2,2,1
+Subcounty,Igambangombe ,1079,1.99,0.19,16,10,18,14
+Subcounty,Igembe Central ,1470,0.67,0.19,28,18,18,10
+Subcounty,Igembe North ,1241,0.73,0.2,31,12,39,26
+Subcounty,Igembe South ,3005,1.85,0.07,18,32,50,33
+Subcounty,Ijara ,177,0.14,0.02,9,7,5,5
+Subcounty,Ikolomani ,4241,4.05,0.36,61,45,152,140
+Subcounty,Imenti Central ,3160,2.38,0.25,25,34,44,23
+Subcounty,Imenti North ,3656,2.05,0.26,47,40,103,44
+Subcounty,Imenti South ,5808,2.81,0.27,86,56,132,106
+County,Isiolo,1541,0.7,0.1,22,23,253,121
+Subcounty,Isiolo ,998,0.9,0.12,14,14,154,88
+Subcounty,Jomvu ,9419,5.72,0.66,146,105,211,163
+Subcounty,Juja ,5755,1.79,0.12,77,42,122,106
+Subcounty,Kabete ,2391,1.13,0.08,32,19,86,52
+Subcounty,Kabondo Kasipul ,10475,9.45,0.81,135,95,479,439
+Subcounty,Kabuchai ,2669,1.63,0.19,38,36,207,130
+Subcounty,Kaiti ,1908,1.54,0.19,28,22,41,34
+County,Kajiado,25746,2.5,0.51,535,538,1294,777
+Subcounty,Kajiado Central ,2475,1.67,0.39,52,60,159,85
+Subcounty,Kajiado East ,7970,3.15,0.66,165,169,502,280
+Subcounty,Kajiado North ,6405,2.28,0.44,134,129,344,217
+Subcounty,Kajiado West ,2027,1.17,0.27,41,47,78,41
+County,Kakamega,51067,2.91,0.29,735,580,2423,1726
+Subcounty,Kalama ,1123,2.04,0.23,16,12,12,8
+Subcounty,Kaloleni ,3350,1.83,0.22,51,41,225,170
+Subcounty,Kamukunji ,5968,4.59,0.93,44,96,172,403
+Subcounty,Kandara ,1117,0.6,0.03,15,6,52,55
+Subcounty,Kanduyi ,7592,2.88,0.33,110,98,510,307
+Subcounty,Kangema ,1061,1.24,0.06,14,6,32,27
+Subcounty,Kangundo ,1804,1.8,0.19,27,19,48,55
+Subcounty,Kapseret ,7544,3.83,0.82,158,157,134,112
+Subcounty,Karachuonyo ,19803,12.06,1.08,251,176,799,792
+Subcounty,Kasarani ,3537,2,0.53,26,75,145,407
+Subcounty,Kathiani ,2930,2.57,0.23,43,27,34,36
+Subcounty,Keiyo North ,2200,2.56,0.48,46,44,78,59
+Subcounty,Keiyo South ,3440,3.33,0.64,72,70,62,42
+County,Kericho,26639,3.3,0.71,561,571,748,495
+Subcounty,Kesses ,3834,2.99,0.56,80,71,84,55
+Subcounty,Khwisero ,5130,4.8,0.39,74,50,184,156
+Subcounty,Kiambaa ,6833,2.74,0.23,92,58,138,132
+County,Kiambu,53718,2.1,0.15,718,397,1649,1348
+Subcounty,Kiambu Town ,2834,1.84,0.11,38,19,125,108
+Subcounty,Kibish ,272,0.85,0.18,5,6,22,11
+Subcounty,Kibra ,2663,3.18,0.74,20,48,140,595
+Subcounty,Kibwezi East ,3220,2.29,0.21,48,29,139,121
+Subcounty,Kibwezi West ,4923,2.55,0.24,72,45,140,156
+Subcounty,Kieni East ,3124,2.52,0.1,42,14,42,47
+Subcounty,Kieni West ,1870,1.89,0.08,25,9,23,29
+Subcounty,Kigumo ,1769,1.22,0.06,24,10,58,49
+Subcounty,Kiharu ,4369,2.07,0.1,58,23,83,90
+Subcounty,Kikuyu ,3678,1.85,0.13,49,27,101,59
+County,Kilifi,32485,2.51,0.32,497,415,1481,1090
+Subcounty,Kilifi North ,6047,2.49,0.28,93,71,324,282
+Subcounty,Kilifi South ,2792,1.38,0.18,43,37,320,195
+Subcounty,Kilome ,2523,2.38,0.22,37,23,59,66
+Subcounty,Kimilili ,2959,1.99,0.21,42,37,171,69
+Subcounty,Kiminini ,7017,3.37,0.62,145,133,445,291
+Subcounty,Kinango ,8602,3.33,0.48,128,122,90,67
+Subcounty,Kinangop ,1999,0.94,0.05,27,11,119,99
+Subcounty,Kipipiri ,1101,1.14,0.05,15,6,33,40
+Subcounty,Kipkelion East ,2831,2.33,0.5,59,61,76,60
+Subcounty,Kipkelion West ,856,0.77,0.17,18,19,74,36
+County,Kirinyaga,11626,1.7,0.08,157,59,294,324
+Subcounty,Kirinyaga Central ,1516,1.11,0.06,20,9,72,64
+Subcounty,Kirinyaga East ,2067,1.38,0.07,28,11,31,41
+Subcounty,Kirinyaga North/Mwea West ,3371,2.87,0.13,45,17,73,81
+Subcounty,Kirinyaga South ,3110,2.06,0.09,42,15,67,82
+Subcounty,Kirinyaga West ,1562,1.22,0.06,21,8,50,55
+Subcounty,Kisauni ,7761,2.54,0.32,120,94,137,108
+County,Kisii,48202,3.77,0.35,623,443,1453,1184
+County,Kisumu,135550,11.69,1.1,1761,1210,4321,4391
+Subcounty,Kisumu Central ,27760,15.87,1.41,360,226,1201,1190
+Subcounty,Kisumu East ,21597,9.68,0.99,281,209,535,583
+Subcounty,Kisumu West ,19331,11.32,1.14,251,181,561,520
+County,Kitui,27598,2.61,0.26,403,276,615,450
+Subcounty,Kitui Central ,3626,2.56,0.26,53,37,130,84
+Subcounty,Kitui East ,2419,1.88,0.19,35,25,71,51
+Subcounty,Kitui Rural ,3020,2.96,0.3,44,30,38,41
+Subcounty,Kitui South ,6421,3.84,0.4,94,67,72,53
+Subcounty,Kitui West ,2660,2.43,0.26,39,28,61,69
+Subcounty,Kitutu Chache North ,5917,5.45,0.56,76,57,95,90
+Subcounty,Kitutu Chache South ,11793,7.63,0.66,153,97,324,300
+Subcounty,Koibatek ,3147,2.92,0.62,65,70,121,78
+Subcounty,Konoin ,2972,2.1,0.5,62,69,80,62
+Subcounty,Kuresoi North ,2955,1.79,0.38,61,62,72,47
+Subcounty,Kuresoi South ,3579,2.44,0.48,74,70,166,86
+Subcounty,Kuria East ,1613,1.45,0.19,21,22,58,27
+Subcounty,Kuria West ,4163,2.44,0.26,53,49,252,188
+Subcounty,Kutulo ,52,0.09,0.02,2,3,2,0
+County,Kwale,20810,2.76,0.38,310,284,816,570
+Subcounty,Kwanza ,4745,2.75,0.47,99,88,151,86
+Subcounty,Lafey ,61,0.09,0.02,3,3,2,0
+Subcounty,Lagdera ,176,0.39,0.08,9,7,8,1
+County,Laikipia,11173,2.31,0.41,235,203,420,297
+Subcounty,Laikipia East ,3908,2.91,0.58,82,77,152,111
+Subcounty,Laikipia North ,1206,1.31,0.24,25,23,32,18
+Subcounty,Laikipia West ,6059,2.35,0.38,127,103,236,169
+Subcounty,Laisamis ,555,0.66,0.14,8,12,21,1
+County,Lamu,1432,1.02,0.15,22,20,44,34
+Subcounty,Lamu East ,78,0.36,0.05,1,1,4,3
+Subcounty,Lamu West ,1354,1.14,0.17,21,19,40,32
+Subcounty,Langata ,7752,8.95,1.65,57,108,86,321
+Subcounty,Lari ,3870,2.7,0.16,52,25,101,86
+Subcounty,Likoni ,11984,4.72,0.63,184,152,436,399
+Subcounty,Likuyani ,2859,1.99,0.21,41,34,175,88
+Subcounty,Limuru ,3874,2.29,0.15,52,27,110,110
+Subcounty,Loima ,1419,1.56,0.3,28,28,51,29
+Subcounty,Loitokitok ,6869,3.87,0.73,142,134,211,155
+Subcounty,Luanda ,3467,3.37,0.24,50,30,201,165
+Subcounty,Lugari ,4165,2.34,0.26,60,51,184,130
+Subcounty,Lunga Lunga ,2798,1.61,0.2,41,36,167,122
+Subcounty,Lurambi ,4567,2.55,0.23,66,49,328,240
+County,Machakos,46750,3.24,0.31,696,438,874,772
+Subcounty,Machakos ,3912,2.26,0.23,58,39,184,160
+Subcounty,Magarini ,2414,1.14,0.15,36,31,222,160
+Subcounty,Makadara ,1893,1.85,0.42,14,34,106,310
+County,Makueni,19035,1.96,0.19,281,179,586,529
+Subcounty,Makueni ,4628,2.19,0.2,68,42,128,85
+Subcounty,Malava ,3634,1.61,0.19,52,48,255,171
+Subcounty,Malindi ,4927,2.58,0.53,77,86,267,195
+County,Mandera,1736,0.26,0.05,83,82,56,15
+Subcounty,Mandera East ,1105,0.89,0.15,52,50,25,11
+Subcounty,Mandera North ,56,0.05,0.01,3,3,4,0
+Subcounty,Mandera South ,138,0.11,0.02,7,6,4,0
+Subcounty,Mandera West ,66,0.09,0.01,3,3,6,3
+Subcounty,Manga ,2941,3.05,0.28,38,26,76,58
+Subcounty,Manyatta ,2539,1.17,0.11,38,24,142,123
+Subcounty,Marakwet East ,462,0.55,0.12,10,10,48,18
+Subcounty,Marakwet West ,1188,1,0.2,25,25,106,60
+Subcounty,Marigat ,1124,1.49,0.28,23,23,62,47
+County,Marsabit,1780,0.47,0.09,25,34,138,81
+Subcounty,Masaba North ,3083,2.69,0.21,40,25,120,97
+Subcounty,Masinga ,2887,1.9,0.18,43,27,69,44
+Subcounty,Matayos ,11788,9.32,1.69,178,176,400,329
+Subcounty,Mathare ,6010,6.56,1.31,44,93,84,314
+Subcounty,Mathioya ,2209,2.25,0.11,29,12,42,49
+Subcounty,Mathira East ,2293,2.07,0.09,31,11,55,67
+Subcounty,Mathira West ,2815,4.23,0.17,38,13,21,25
+Subcounty,Matuga ,5285,3.14,0.45,79,74,274,162
+Subcounty,Matungu ,3491,2.22,0.23,50,42,183,101
+Subcounty,Matungulu ,2887,1.76,0.18,43,29,56,58
+Subcounty,Mbeere North ,1425,1.24,0.13,21,15,42,34
+Subcounty,Mbeere South ,2314,1.35,0.14,35,24,51,34
+Subcounty,Mbita ,13657,12.1,1.08,178,123,613,506
+Subcounty,Mbooni ,1833,0.93,0.09,27,17,79,67
+Subcounty,Merti ,229,0.83,0.16,3,4,68,3
+County,Meru,26727,1.73,0.19,392,286,958,577
+County,Migori,106003,10.45,0.95,1364,1005,3945,3914
+Subcounty,Mogotio ,1190,1.58,0.35,25,28,28,15
+Subcounty,Moiben ,12360,7.22,1.33,259,222,148,119
+Subcounty,Molo ,2571,1.74,0.32,54,48,113,70
+County,Mombasa,54361,4.39,0.54,842,631,1605,1409
+Subcounty,Mosop ,2076,1.39,0.3,43,45,65,36
+Subcounty,Moyale ,519,0.41,0.08,7,10,79,64
+Subcounty,Msambweni ,4124,2.68,0.33,62,52,286,219
+Subcounty,Mt Elgon ,1460,1.93,0.2,21,18,59,44
+Subcounty,Muhoroni ,10642,6.76,0.67,138,101,429,465
+Subcounty,Mukurweini ,2196,2.22,0.09,30,10,25,37
+Subcounty,Mumias East ,1989,1.84,0.2,28,24,136,92
+Subcounty,Mumias West ,6489,6.04,0.73,95,80,253,167
+County,Murang'a,16133,1.44,0.06,215,85,414,426
+Subcounty,Muranga South ,3343,1.7,0.07,45,17,102,108
+Subcounty,Muthambi ,1134,2.99,0.26,17,10,28,27
+Subcounty,Mvita ,9138,5.85,0.65,142,96,189,155
+Subcounty,Mwala ,5514,3,0.27,82,51,108,100
+Subcounty,Mwatate ,1285,1.53,0.16,20,13,48,44
+Subcounty,Mwimbi ,2315,2.94,0.28,34,22,75,60
+Subcounty,Mwingi Central ,2673,1.82,0.18,39,27,126,82
+Subcounty,Mwingi North ,1960,1.28,0.14,28,21,78,38
+Subcounty,Mwingi West ,4819,4.47,0.37,70,42,38,32
+County,Nairobi ,82820,4.27,0.89,607,1363,1865,5950
+Subcounty,Naivasha ,12969,3.88,0.66,272,224,421,351
+County,Nakuru,65149,3.23,0.58,1363,1185,2138,1560
+Subcounty,Nakuru East ,6434,3.55,0.68,135,125,301,210
+Subcounty,Nakuru North ,2616,1.3,0.22,55,45,138,119
+Subcounty,Nakuru West ,14032,7.56,1.26,296,233,351,307
+Subcounty,Nambale ,4443,4.31,0.42,64,52,119,81
+County,Nandi,15580,1.96,0.39,325,316,644,345
+Subcounty,Nandi Hills ,2680,2.51,0.62,56,63,118,48
+County,Narok,15918,1.77,0.42,325,399,498,326
+Subcounty,Narok East ,997,1.1,0.23,20,22,139,84
+Subcounty,Narok North ,3778,1.93,0.68,77,129,45,7
+Subcounty,Narok South ,2933,1.58,0.33,60,68,92,71
+Subcounty,Narok West ,1691,1.11,0.19,34,34,75,71
+Subcounty,Navakholo ,5056,3.48,0.33,72,56,122,88
+Subcounty,Ndaragwa ,1246,1.22,0.06,16,7,73,58
+Subcounty,Ndhiwa ,15503,7.58,0.68,195,143,1060,1012
+Subcounty,Njoro ,6735,3.07,0.61,140,133,213,125
+Subcounty,North Horr ,244,0.23,0.04,3,4,15,4
+Subcounty,Nyakach ,18515,12.21,1.15,239,165,443,495
+Subcounty,Nyali ,3864,1.71,0.22,60,48,299,270
+County,Nyamira,21759,3.5,0.3,283,182,572,446
+Subcounty,Nyamira ,7592,4.65,0.39,99,62,196,165
+Subcounty,Nyamira North ,6491,3.78,0.32,84,54,94,63
+County,Nyandarua,7306,1.11,0.05,97,41,365,306
+Subcounty,Nyando ,19672,12.13,1.17,257,181,686,651
+Subcounty,Nyaribari Chache ,5755,3.39,0.32,74,53,214,162
+Subcounty,Nyaribari Masaba ,2857,2.31,0.24,37,29,100,58
+Subcounty,Nyatike ,32662,20.53,1.87,420,281,1113,1176
+County,Nyeri,18496,2.62,0.11,248,86,331,400
+Subcounty,Nyeri Central ,507,3.23,0.13,7,2,113,137
+Subcounty,Nyeri South ,1424,1.4,0.07,19,8,38,45
+Subcounty,Oljoroorok ,1018,1,0.05,13,6,56,34
+Subcounty,Olkalou ,1942,1.31,0.06,26,11,84,75
+Subcounty,Pokot Central ,208,0.23,0.04,4,5,19,16
+Subcounty,Pokot North ,641,0.62,0.14,13,16,10,4
+Subcounty,Pokot South ,597,0.43,0.11,12,17,13,4
+Subcounty,Rabai ,2386,2.09,0.25,36,30,52,40
+Subcounty,Rachuonyo South ,10582,8.85,0.86,137,104,583,552
+Subcounty,Rangwe ,15348,14.06,1.17,191,125,546,536
+Subcounty,Rarieda ,16502,11.32,0.91,212,130,750,746
+Subcounty,Rongai ,3651,1.95,0.37,76,71,146,74
+Subcounty,Rongo ,19014,16.82,1.54,244,170,511,558
+Subcounty,Roysambu ,2640,1.98,0.54,19,58,76,192
+Subcounty,Ruaraka ,5033,4.83,0.97,37,79,117,472
+Subcounty,Ruiru ,11496,2.91,0.21,153,87,294,202
+Subcounty,Runyenjes ,3281,2.43,0.21,49,29,103,90
+Subcounty,Sabatia ,2104,1.66,0.15,30,21,124,93
+Subcounty,Saboti ,5951,3.45,0.61,123,112,251,148
+Subcounty,Saku ,461,0.69,0.11,7,7,23,11
+County,Samburu,3755,1.59,0.35,77,94,277,75
+Subcounty,Samburu Central ,2440,1.95,0.43,50,60,131,33
+Subcounty,Samburu East ,922,1.55,0.35,19,24,115,27
+Subcounty,Samburu North ,393,0.77,0.17,8,10,31,15
+Subcounty,Samia ,9087,9.33,1.19,133,116,212,169
+Subcounty,Seme ,18034,14.82,1.26,235,147,467,488
+Subcounty,Shinyalu ,7039,4.48,0.41,102,74,254,214
+County,Siaya,93368,9.83,0.78,1202,744,4499,4387
+Subcounty,Sigowet/Soin ,2745,2.38,0.55,58,62,109,66
+Subcounty,Sirisia ,1217,1.1,0.12,18,15,89,71
+Subcounty,Sotik ,3819,1.94,0.38,80,76,117,86
+Subcounty,South Mugirango ,6480,3.83,0.39,84,63,190,158
+Subcounty,Soy ,3306,1.52,0.29,69,64,201,140
+Subcounty,Starehe ,5426,5.68,1,40,72,94,278
+Subcounty,Suba South ,9741,8.77,0.71,128,85,675,633
+Subcounty,Subukia ,2603,3.26,0.58,55,47,41,36
+Subcounty,Suna East ,11489,10.3,1.04,149,115,417,478
+Subcounty,Suna West ,9321,7.85,0.75,120,95,505,485
+County,Taita-Taveta,7463,2.09,0.21,116,73,310,267
+County,Tana River,1972,0.75,0.1,29,27,158,90
+Subcounty,Tarbaj ,89,0.18,0.04,4,4,152,0
+Subcounty,Taveta ,1769,1.85,0.21,28,19,111,96
+Subcounty,Teso North ,1961,1.52,0.15,28,23,149,111
+Subcounty,Teso South ,4134,2.65,0.24,60,46,77,67
+Subcounty,Tetu ,4268,4.79,0.19,58,19,15,14
+Subcounty,Tharaka North ,337,0.57,0.06,5,3,18,12
+Subcounty,Tharaka South ,726,0.95,0.1,11,7,35,22
+County,Tharaka-Nithi,7063,1.77,0.17,104,65,235,186
+Subcounty,Thika Town ,6389,2.12,0.15,86,47,320,288
+Subcounty,Tiaty East ,215,0.35,0.07,5,5,6,1
+Subcounty,Tigania Central ,1945,1.86,0.19,44,19,151,97
+Subcounty,Tigania East ,1045,1.41,0.23,54,12,262,143
+Subcounty,Tigania West ,2156,1.53,0.17,15,26,33,27
+Subcounty,Tinderet ,878,0.84,0.16,18,17,46,34
+Subcounty,Tongaren ,2641,1.29,0.15,38,36,199,115
+County,Trans-Nzoia,24207,2.86,0.51,500,459,1146,718
+Subcounty,Transmara East ,786,0.91,0.19,16,18,57,30
+Subcounty,Transmara West ,5733,3.02,0.62,118,127,89,63
+Subcounty,Turbo ,5815,2.3,0.43,122,111,351,270
+County,Turkana,13301,1.7,0.36,265,287,847,522
+Subcounty,Turkana Central ,5475,3.46,0.65,109,104,438,307
+Subcounty,Turkana East ,631,0.56,0.1,13,13,15,11
+Subcounty,Turkana North ,620,1.09,0.23,12,13,81,32
+Subcounty,Turkana South ,2094,1.63,0.35,42,46,39,19
+Subcounty,Turkana West ,2789,1.38,0.38,56,77,201,114
+County,Uasin Gishu,41564,3.79,0.7,870,765,1270,976
+Subcounty,Ugenya ,9972,7.85,0.6,131,80,368,418
+Subcounty,Ugunja ,8847,8.88,0.71,114,71,467,495
+Subcounty,Uriri ,10919,8.36,0.83,140,111,605,554
+County,Vihiga,14158,2.5,0.21,204,135,882,609
+Subcounty,Vihiga ,2623,2.86,0.23,38,25,191,118
+Subcounty,Voi ,3320,2.81,0.27,52,31,133,110
+County,Wajir,861,0.13,0.03,41,39,305,12
+Subcounty,Wajir East ,323,0.34,0.06,15,15,32,8
+Subcounty,Wajir North ,205,0.21,0.05,9,9,115,3
+Subcounty,Wajir South ,144,0.06,0.01,7,6,4,1
+Subcounty,Wajir West ,51,0.05,0.01,2,2,1,0
+Subcounty,Webuye East ,1485,1.41,0.15,21,19,100,48
+Subcounty,Webuye West ,3289,2.34,0.23,48,39,264,177
+County,West Pokot,3099,0.66,0.14,62,76,197,92
+Subcounty,West Pokot ,1653,1.18,0.24,33,38,155,67
+Subcounty,Westlands ,3236,3.24,0.66,24,53,122,207
+Subcounty,Wundanyi ,1088,1.85,0.17,17,10,18,18
+Subcounty,Yatta ,4746,2.68,0.26,70,45,114,114
